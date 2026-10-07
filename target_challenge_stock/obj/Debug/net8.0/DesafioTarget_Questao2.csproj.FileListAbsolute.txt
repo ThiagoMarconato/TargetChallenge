@@ -1,0 +1,14 @@
+/home/thiago/Documentos/Pessoal/C#/target_challenge_stock/bin/Debug/net8.0/DesafioTarget_Questao2
+/home/thiago/Documentos/Pessoal/C#/target_challenge_stock/bin/Debug/net8.0/DesafioTarget_Questao2.deps.json
+/home/thiago/Documentos/Pessoal/C#/target_challenge_stock/bin/Debug/net8.0/DesafioTarget_Questao2.runtimeconfig.json
+/home/thiago/Documentos/Pessoal/C#/target_challenge_stock/bin/Debug/net8.0/DesafioTarget_Questao2.dll
+/home/thiago/Documentos/Pessoal/C#/target_challenge_stock/bin/Debug/net8.0/DesafioTarget_Questao2.pdb
+/home/thiago/Documentos/Pessoal/C#/target_challenge_stock/obj/Debug/net8.0/DesafioTarget_Questao2.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiago/Documentos/Pessoal/C#/target_challenge_stock/obj/Debug/net8.0/DesafioTarget_Questao2.AssemblyInfoInputs.cache
+/home/thiago/Documentos/Pessoal/C#/target_challenge_stock/obj/Debug/net8.0/DesafioTarget_Questao2.AssemblyInfo.cs
+/home/thiago/Documentos/Pessoal/C#/target_challenge_stock/obj/Debug/net8.0/DesafioTarget_Questao2.csproj.CoreCompileInputs.cache
+/home/thiago/Documentos/Pessoal/C#/target_challenge_stock/obj/Debug/net8.0/DesafioTarget_Questao2.dll
+/home/thiago/Documentos/Pessoal/C#/target_challenge_stock/obj/Debug/net8.0/refint/DesafioTarget_Questao2.dll
+/home/thiago/Documentos/Pessoal/C#/target_challenge_stock/obj/Debug/net8.0/DesafioTarget_Questao2.pdb
+/home/thiago/Documentos/Pessoal/C#/target_challenge_stock/obj/Debug/net8.0/DesafioTarget_Questao2.genruntimeconfig.cache
+/home/thiago/Documentos/Pessoal/C#/target_challenge_stock/obj/Debug/net8.0/ref/DesafioTarget_Questao2.dll
